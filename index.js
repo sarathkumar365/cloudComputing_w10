@@ -22,7 +22,7 @@ const config = {
   options: {
     encrypt: true,
     enableArithAbort: true
-  }
+  } 
 };
 
 // Connect to Azure SQL Database
